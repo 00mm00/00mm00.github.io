@@ -1,1 +1,4 @@
+# Build settings
+markdown: kramdown
 theme: no-style-please
+# i am adding a theme
