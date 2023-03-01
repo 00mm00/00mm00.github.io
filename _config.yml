@@ -2,3 +2,36 @@
 markdown: kramdown
 remote_theme: riggraz/no-style-please
 # i am adding a theme
+
+title: Waag Internship Documentation Site 
+∵*.•´¸.•*´✶´♡
+° ☆ °˛*˛☆_Π______*˚☆*
+˚ ˛★˛•˚*/______/ ~⧹。˚˚
+˚ ˛•˛•˚ ｜ 田田 ｜門｜ ˚*
+🌷╬╬🌷╬╬🌷╬╬🌷╬╬🌷 
+# name of the site
+author: Maria L.M. # name of site's author
+email: mar1alm@proton.me # email of site's author
+url: 00mm00.github.io # root address of the site
+baseurl:  # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  Welcome to my documentation page, where I will be sharing my experiments, failures, and epiphanies at the Waag.
+permalink: /:slug.html
+
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
