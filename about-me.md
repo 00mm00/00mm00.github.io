@@ -1,0 +1,3 @@
+I recently graduated with a degree in Humanities, specializing in Philosophy and Literature. My primary academic frame is futurism: I am interested in the influence of scientific developments on popular culture and the influence of culture and media on scientific discourse. Especially: linguistics, AI, posthumanism, and the history and economics of utopian politics (automation discourse and post-labor theories).
+
+I am interning at Waag in hopes of combining my academic interests with hands-on making skills. I am interested in making objects which engage in a dialogue with the future and explore multifarious ways-of-being, through listening to the inner lives of machines and the unsung music of living materials alike.
