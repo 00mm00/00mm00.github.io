@@ -1,0 +1,19 @@
+
+entries:
+  - title: SUPER COOL LISTZZZZ
+    entries:
+      - title: THE BEST  ENTRY
+      - title: github repo
+        url: https://github.com/00mm00
+      - title: "I LIKE BIG BUTZ AND I CANNOT LIE"
+  
+  - title: ABNOTHR SUPR COOL LISTZ
+    entries:
+      - title: SUBITEMS N SHIT
+        entries:
+          - title: with subsubitems
+          - title: example page
+            url: about
+  - title: PRO TIP
+    entries:
+      - title: to edit this menu, edit _data/menu.yml file
