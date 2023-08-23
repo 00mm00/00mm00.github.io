@@ -25,6 +25,6 @@ entries:
       show_more_text: See posts...
       show_more_url: post.html
   - title: archive
-      post_list:
+    post_list:
       category: post
       show_more_url: archive.html
